@@ -20,6 +20,10 @@
         "name": "taxonomy.techs.id"
       },
       {
+        "parameter": "aseprite",
+        "name": "taxonomy.techs.aseprite"
+      },
+      {
         "parameter": "cad",
         "name": "taxonomy.techs.cad"
       }

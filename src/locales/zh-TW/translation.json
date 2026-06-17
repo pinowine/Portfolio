@@ -209,6 +209,10 @@
     "034": {
       "title": "水形生態缸",
       "description": "使用 TouchDesigner 和 Kinect 構建的互動式海洋生態系統。"
+    },
+    "035": {
+      "title": "串流",
+      "description": "基於俄羅斯方塊的 Roguelike 遊戲。"
     }
   },
   "taxonomy": {
@@ -295,7 +299,8 @@
       "e2": "e2.cool",
       "gen": "生成式 AI",
       "kinect": "Kinect",
-      "p5": "p5.js"
+      "p5": "p5.js",
+      "aseprite": "Aseprite"
     },
     "groups": {
       "tags": {
@@ -1370,6 +1375,47 @@
       "007": {
         "alt": "開發3",
         "description": "Debug 過程視圖。"
+      }
+    },
+    "035": {
+      "001": {
+        "text": "專案屬於我的課程 *Creative Making II* 的 Final 專案，該專案需要在 2-3 週內快速開發出一個基於「過去開發的俄羅斯方塊原型」的遊戲，並要求是一個「研究型」專案。本專案選擇的議題是「網路釣魚」，給俄羅斯方塊的每個形狀賦予了形態學意義，並設計了一套基於網路巨魔行為的 Boss（偽科學、粉絲戰爭、梗小鬼、演算法、匿名等）。然後在一個 Roguelike 遊戲的框架下，模擬出──使用者扮演一個社群管理，消除不當言論，獲得關注，購買升級，最終擊敗最終 Boss──的遊戲流程。"
+      },
+      "002": {
+        "alt": "開發 I",
+        "description": "俄羅斯方塊設計。"
+      },
+      "003": {
+        "alt": "開發 II",
+        "description": "UI 完善。"
+      },
+      "004": {
+        "alt": "開發 III",
+        "description": "早期商店。"
+      },
+      "005": {
+        "alt": "開發 IV",
+        "description": "基礎原型。"
+      },
+      "006": {
+        "alt": "開發 V",
+        "description": "最小可用。"
+      },
+      "007": {
+        "alt": "介面 I",
+        "description": "懸浮查看。"
+      },
+      "008": {
+        "alt": "介面 II",
+        "description": "商店說明。"
+      },
+      "009": {
+        "alt": "介面 III",
+        "description": "資訊污染。"
+      },
+      "010": {
+        "alt": "介面 IV",
+        "description": "運行中。"
       }
     }
   }

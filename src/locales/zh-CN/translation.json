@@ -209,6 +209,10 @@
     "034": {
       "title": "水形生态缸",
       "description": "使用TouchDesigner和Kinect构建的交互式海洋生态系统。"
+    },
+    "035": {
+      "title": "串流",
+      "description": "基于俄罗斯方块的肉鸽游戏。"
     }
   },
   "taxonomy": {
@@ -295,7 +299,8 @@
       "e2": "e2.cool",
       "gen": "生成式 AI",
       "kinect": "Kinect",
-      "p5": "p5.js"
+      "p5": "p5.js",
+      "aseprite": "Aseprite"
     },
     "groups": {
       "tags": {
@@ -1370,6 +1375,47 @@
       "007": {
         "alt": "开发3",
         "description": "Debug过程视图。"
+      }
+    },
+    "035": {
+      "001": {
+        "text": "项目属于我的课程 *Creative Making II* 的 Final 项目，该项目在2-3周内快速开发出一个基于“过去开发的俄罗斯方块原型”的游戏，并要求是一个“研究型”项目。本项目选择的议题是“网络钓鱼”，给俄罗斯方块的每个形状赋予了形态学意义，并设计了一套基于网络巨魔行为的Boss（伪科学、粉丝战争、梗小鬼、算法、匿名等）。然后在一个肉鸽游戏的框架下，模拟出──用户扮演一个社群管理，消除不当言论，获得关注，购买升级，最终击败最终boss──的游戏流程。"
+      },
+      "002": {
+        "alt": "开发I",
+        "description": "俄罗斯方块设计。"
+      },
+      "003": {
+        "alt": "开发II",
+        "description": "UI完善。"
+      },
+      "004": {
+        "alt": "开发III",
+        "description": "早期商店。"
+      },
+      "005": {
+        "alt": "开发IV",
+        "description": "基础原型。"
+      },
+      "006": {
+        "alt": "开发V",
+        "description": "最小可用。"
+      },
+      "007": {
+        "alt": "界面I",
+        "description": "悬浮查看。"
+      },
+      "008": {
+        "alt": "界面II",
+        "description": "商店说明。"
+      },
+      "009": {
+        "alt": "界面III",
+        "description": "信息污染。"
+      },
+      "010": {
+        "alt": "界面IV",
+        "description": "运行中。"
       }
     }
   }

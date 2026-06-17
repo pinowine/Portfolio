@@ -209,6 +209,10 @@
     "034": {
       "title": "AQUA",
       "description": "An interactive marine ecosystem built with TouchDesigner and Kinect."
+    },
+    "035": {
+      "title": "ThreadsFall",
+      "description": "A Tetris-based roguelike game."
     }
   },
   "taxonomy": {
@@ -295,7 +299,8 @@
       "e2": "e2.cool",
       "gen": "Generative AI",
       "kinect": "Kinect",
-      "p5": "p5.js"
+      "p5": "p5.js",
+      "aseprite": "Aseprite"
     },
     "groups": {
       "tags": {
@@ -1370,6 +1375,47 @@
       "007": {
         "alt": "Development 3",
         "description": "Debug process view."
+      }
+    },
+    "035": {
+      "001": {
+        "text": "This project was the final project for my *Creative Making II* course. It required quickly developing, within two to three weeks, a game based on a previously built Tetris prototype, while also making it a research-oriented project. I chose phishing as the topic, gave each Tetris shape a morphological meaning, and designed a set of bosses based on online trolling behaviors, including pseudoscience, fan wars, meme kids, algorithms, anonymity, and more. Within a roguelike framework, the game simulates a loop where the user plays a community moderator, removes inappropriate speech, gains attention, buys upgrades, and finally defeats the final boss."
+      },
+      "002": {
+        "alt": "Development I",
+        "description": "Tetris design."
+      },
+      "003": {
+        "alt": "Development II",
+        "description": "UI refinement."
+      },
+      "004": {
+        "alt": "Development III",
+        "description": "Early shop."
+      },
+      "005": {
+        "alt": "Development IV",
+        "description": "Base prototype."
+      },
+      "006": {
+        "alt": "Development V",
+        "description": "Minimum viable version."
+      },
+      "007": {
+        "alt": "Interface I",
+        "description": "Hover preview."
+      },
+      "008": {
+        "alt": "Interface II",
+        "description": "Shop description."
+      },
+      "009": {
+        "alt": "Interface III",
+        "description": "Information pollution."
+      },
+      "010": {
+        "alt": "Interface IV",
+        "description": "Running."
       }
     }
   }

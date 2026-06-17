@@ -1124,5 +1124,41 @@
       "/projects/034/details/4.webp",
       "/projects/034/details/5.webp"
     ]
+  },
+  {
+    "code": "035",
+    "title": "串流",
+    "description": "基于俄罗斯方块的肉鸽游戏。",
+    "date": "2026-6",
+    "year": 2026,
+    "month": 6,
+    "type": "major",
+    "tags": [
+      "game",
+      "ui",
+      "ux",
+      "narrative"
+    ],
+    "tech": [
+      "unity",
+      "aseprite"
+    ],
+    "link": "/",
+    "route": "/markdown/035.md",
+    "poster": "/projects/035/poster.webp",
+    "thumbnail": "/projects/035/thumbnail.webp",
+    "banner": "",
+    "details": [
+      "/projects/035/details/1.webp",
+      "/projects/035/details/2.webp",
+      "/projects/035/details/3.webp",
+      "/projects/035/details/4.webp",
+      "/projects/035/details/5.webp",
+      "/projects/035/details/6.webp",
+      "/projects/035/details/7.webp",
+      "/projects/035/details/8.webp",
+      "/projects/035/details/9.webp",
+      "/projects/035/details/10.webp"
+    ]
   }
 ]

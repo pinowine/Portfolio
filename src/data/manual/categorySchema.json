@@ -220,6 +220,10 @@
       "label": "Blender",
       "group": "modelingRendering"
     },
+    "aseprite": {
+      "label": "Aseprite",
+      "group": "graphicsTypography"
+    },
     "unity": {
       "label": "Unity",
       "group": "integratedDevelopment"
