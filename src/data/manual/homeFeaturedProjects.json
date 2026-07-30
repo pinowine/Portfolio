@@ -1,5 +1,15 @@
 [
   {
+    "code": "036",
+    "previewImage": "/projects/036/thumbnail.webp",
+    "images": [
+      "/projects/036/details/1.webp",
+      "/projects/036/details/2.webp",
+      "/projects/036/details/5.webp",
+      "/projects/036/details/6.webp"
+    ]
+  },
+  {
     "code": "035",
     "previewImage": "/projects/035/thumbnail.webp",
     "images": [

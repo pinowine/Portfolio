@@ -1160,5 +1160,34 @@
       "/projects/035/details/9.webp",
       "/projects/035/details/10.webp"
     ]
+  },
+  {
+    "code": "036",
+    "title": "一个数落游戏",
+    "description": "GMTK Game Jam 2026 独立作品。",
+    "date": "2026-7",
+    "year": 2026,
+    "month": 7,
+    "type": "full",
+    "tags": [
+      "game",
+      "ui"
+    ],
+    "tech": [
+      "unity"
+    ],
+    "link": "https://itch.io/jam/gmtk-jam-2026/rate/4829229",
+    "route": "/markdown/036.md",
+    "poster": "/projects/036/poster.webp",
+    "thumbnail": "/projects/036/thumbnail.webp",
+    "banner": "",
+    "details": [
+      "/projects/036/details/1.webp",
+      "/projects/036/details/2.webp",
+      "/projects/036/details/3.webp",
+      "/projects/036/details/4.webp",
+      "/projects/036/details/5.webp",
+      "/projects/036/details/6.webp"
+    ]
   }
 ]

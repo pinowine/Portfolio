@@ -213,6 +213,10 @@
     "035": {
       "title": "ThreadsFall",
       "description": "A Tetris-based roguelike game."
+    },
+    "036": {
+      "title": "A Number-Falling Game",
+      "description": "An independent entry for GMTK Game Jam 2026."
     }
   },
   "taxonomy": {
@@ -1419,6 +1423,38 @@
       "011": {
         "alt": "界面IV",
         "description": "运行中。"
+      }
+    },
+    "036": {
+      "001": {
+        "text": "A solo project created for GMTK Game Jam 2026 in 72 hours. Its core concept grew out of an earlier course project: interacting with a three-dimensional world from a two-dimensional space. The player can move along a single axis on one of the cube's four side faces. The goal is to bump the blocks above so they fall and fill the bottom face. Feedback from the submitted playtest highlighted issues with interaction and guidance, so I iterated on the tutorial. The video below shows the version developed after the GMTK submission."
+      },
+      "002": {
+        "description": "Gameplay walkthrough."
+      },
+      "003": {
+        "alt": "Intro",
+        "description": "A simple layout introduces the experience."
+      },
+      "004": {
+        "alt": "Isometric view",
+        "description": "Level 1 with its integrated tutorial."
+      },
+      "005": {
+        "alt": "Prototype I",
+        "description": "Paper prototypes used to refine and balance the step counts across the three tutorial levels."
+      },
+      "006": {
+        "alt": "Prototype II",
+        "description": "Exploring playful forms for other levels."
+      },
+      "007": {
+        "alt": "Tutorial: Occlusion",
+        "description": "An emergent tutorial teaching players that they can only interact with blocks closer to the camera."
+      },
+      "008": {
+        "alt": "Main menu",
+        "description": "A simple main page, with the completed Intro state shown on the right."
       }
     }
   }

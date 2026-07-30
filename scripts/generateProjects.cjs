@@ -182,6 +182,21 @@ const parseDate = (dateStr) => {
     };
   }
 
+  const yearMonthMatch = /^(\d{4})-(\d{1,2})$/.exec(dateStr);
+  if (yearMonthMatch) {
+    const year = Number(yearMonthMatch[1]);
+    const month = Number(yearMonthMatch[2]);
+
+    if (month >= 1 && month <= 12) {
+      return {
+        date: new Date(Date.UTC(year, month - 1, 1)),
+        month,
+        type: "specific",
+        year,
+      };
+    }
+  }
+
   const date = new Date(dateStr);
   if (!Number.isNaN(date.getTime())) {
     return {
